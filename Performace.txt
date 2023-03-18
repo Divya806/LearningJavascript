@@ -1,5 +1,0 @@
-Remove the Event Listeners
-all these listeners will be garbage collected
-
-
-It is because of closures, we are able to do setTimouts, currying
